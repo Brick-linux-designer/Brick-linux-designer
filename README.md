@@ -10,6 +10,8 @@
 
 - I am a very big Lego® fan since primary school and I love Linux and Android.
 
+- If I maybe don' t have a lot of commits on [Termux.Wayland repo](https://github.com/Brick-linux-designer/Termux.Wayland)
+
 - Originaly I was looking to collaborate with Termux Devs on Termux Wayland when I succesfully finish [Temux Wayland](https://github.com/Brick-linux-designer/Termux.Wayland).
 
 
