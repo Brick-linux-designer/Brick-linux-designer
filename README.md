@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# Help me to keep Android open ( infos at https://keepandroidopen.org )
 ### I don' t have lot of time to dev and write my profile that is a good thig for a perfectionist like me that can spend all my life on one thing.
 
 -  I’m currently working on main projects like [Termux XWayland](https://github.com/Brick-linux-designer/Termux.Wayland) and one auther that is prprietary and non-free, sory guys but I need to make some money to make up for the electricity consumed by my PC. And I fork Android Apps for fun, now I also have some static forks to preserve the source code of The LEGO Group.
