@@ -13,7 +13,7 @@
 
 - If I maybe don' t have a lot of commits on [Termux.Wayland repo](https://github.com/Brick-linux-designer/Termux.Wayland)
 
-- Originaly I was looking to collaborate with Termux Devs on Termux Wayland when I succesfully finish [Temux Wayland](https://github.com/Brick-linux-designer/Termux.Wayland).
+- Originaly I was looking to collaborate with [Termux Devs](https://github.com/orgs/termux/people) on Termux Wayland when I succesfully finish [Temux Wayland](https://github.com/Brick-linux-designer/Termux.Wayland).
 
 
 [![](https://ghstats.dev/api/card?username=Brick-linux-designer&theme=tokyonight)](https://github.com/e-1-s-4/GitHub-profile-stats)
