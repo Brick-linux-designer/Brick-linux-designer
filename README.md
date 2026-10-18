@@ -1,8 +1,8 @@
 ## Helle there 👋, I came back !
 
-# Google is blocking Android apps installing on Android with out Google Play Store or the official store of your vendor & want to make the AOSP source code private to Google[...] .
-# Help me to keep Android open ( infos at https://keepandroidopen.org )
-# Sign the [petion](https://c.org/PCGP62smXP) at https://www.change.org/p/keep-android-open-stop-google-from-limiting-apk-file-usage/ .
+### Google is blocking Android apps installing on Android with out Google Play Store or the official store of your vendor & want to make the AOSP source code private to Google[...] .
+### Help me to keep Android open ( infos at https://keepandroidopen.org )
+### Sign the [petion](https://c.org/PCGP62smXP) at https://www.change.org/p/keep-android-open-stop-google-from-limiting-apk-file-usage/ .
 
 ### I don' t have lot of time to dev and write my profile that is a good thig for a perfectionist like me that can spend all my life on one thing.
 
