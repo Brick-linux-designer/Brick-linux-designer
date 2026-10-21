@@ -21,20 +21,4 @@
 
 ![](https://readme-stats-github.pages.dev/api/top-langs?username=Brick-linux-designer&theme=shadow&hide_border=true&layout=compact&count_private=true)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [![](https://ghstats.dev/api/card?username=Brick-linux-designer&theme=tokyonight)](https://github.com/Brick-linux-designer/GitHub-profile-stats)
