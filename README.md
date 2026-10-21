@@ -23,4 +23,18 @@
 
 
 
-// [![](https://ghstats.dev/api/card?username=Brick-linux-designer&theme=tokyonight)](https://github.com/Brick-linux-designer/GitHub-profile-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![](https://ghstats.dev/api/card?username=Brick-linux-designer&theme=tokyonight)](https://github.com/Brick-linux-designer/GitHub-profile-stats)
