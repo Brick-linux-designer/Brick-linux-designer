@@ -1,4 +1,4 @@
-## Hello there 👋, I am back !
+## Hello there 👋.
 
 ### I don' t have lot of time to dev and write my profile that is a good thig for a perfectionist like me that can spend all my life on one thing.
 
