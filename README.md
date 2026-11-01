@@ -8,6 +8,8 @@
 ### Help me to keep Android open ( infos at https://keepandroidopen.org )
 ### Sign the [petition](https://c.org/PCGP62smXP) at https://www.change.org/p/keep-android-open-stop-google-from-limiting-apk-file-usage/ .
 
+<script src="https://keepandroidopen.org/banner.js"></script>
+
 -  I’m currently working on main projects like [Termux XWayland](https://github.com/Brick-linux-designer/Termux.Wayland) and one another that is prprietary and non-free, sorry guys but I need to make some money to make up for the electricity consumed by my PC. And I fork Android Apps for fun, now I also have some static forks to preserve the source code of The LEGO Group.
   
 -  I’m currently at end of learning markdown & at start of learning DOS & C/C#/C++.
